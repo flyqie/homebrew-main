@@ -7,7 +7,7 @@
 class IdbCompanion < Formula
   desc "A Powerful Command Line for automating iOS Simulators"
   homepage "https://github.com/flyqie/idb/README.md"
-  url "https://github.com/flyqie/idb/releases/download/v6855b37/idb-companion.universal.tar.gz"
+  url "https://github.com/flyqie/idb/releases/download/v23.23.23/idb-companion.universal.tar.gz"
   sha256 "0b4e8b57a4e98eeaeacfb33a884e42236210840b5d36fc7d05fbe776986608c2"
   head "https://github.com/flyqie/idb.git", branch: "main"
 
